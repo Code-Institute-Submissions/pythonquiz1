@@ -1,0 +1,96 @@
+[
+  {
+    "name": "riddle_0",
+    "description": "Who was the Roman Goddess of hunting?",
+    "answer": "diana"
+  },
+  {
+    "name": "riddle_1",
+    "description": "What did Daedalus construct for King Minos so that he could keep the Minotaur on Crete?",
+    "answer": "labyrinth"
+  },
+  {
+    "name": "riddle_2",
+    "description": "Where did Odin feast with the souls of dead heroes?",
+    "answer": "valhalla"
+  },
+  {
+    "name": "riddle_3",
+    "description": "Aphrodite was the Greek Goddess of love. Who was her Roman equivalent?",
+    "answer": "venus"
+  },
+  {
+    "name": "riddle_4",
+    "description": "Which Greek beauty married the King of Sparta, but was abducted by the Prince of troy?",
+    "answer": "helen"
+  },
+  {
+    "name": "riddle_5",
+    "description": "Which Greek God, a man with horns, ears, and the legs of a goat, is always represented playing a shepherd's pipe?",
+    "answer": "pan"
+  },
+  {
+    "name": "riddle_6",
+    "description": "In Greek mythology, which food of the gods was supposed to give eternal life to all who ate it?",
+    "answer": "ambrosia"
+  },
+  {
+    "name": "riddle_7",
+    "description": "Who was the legendary magician and counsellor to King Arthur?",
+    "answer": "merlin"
+  },
+  {
+    "name": "riddle_8",
+    "description": "In Greek mythology, who was the god of war?",
+    "answer": "ares"
+  },
+  {
+    "name": "riddle_9",
+    "description": "What is the name of the legendary giant lumberjack of the frontiers of the north-eastern USA?",
+    "answer": "paul bunyan"
+  },
+  {
+    "name": "riddle_10",
+    "description": "According to legend, who founded Carthage?",
+    "answer": "dido"
+  },
+  {
+    "name": "riddle_11",
+    "description": "In Roman mythology who was the twin of Romulus?",
+    "answer": "remus"
+  },
+    {
+    "name": "riddle_12",
+    "description": "In Norse mythology, whose chariot was drawn across the sky by two goats, called Toothgrinder and Toothgnasher?",
+    "answer": "thor"
+  },
+    {
+    "name": "riddle_13",
+    "description": "By what collective name are Medusa, Stheno and Euryale known?",
+    "answer": "gorgons"
+  },  {
+    "name": "riddle_14",
+    "description": "Who was given the gift of prophecy by Apollo but no-one ever believed them?",
+    "answer": "cassandra"
+  },  {
+    "name": "riddle_15",
+    "description": "What was the name of the three headed god that guarded the gates to Hades?",
+    "answer": "cerberus"
+  },  {
+    "name": "riddle_16",
+    "description": "The Egyptian dog Anubis had the head of which animal?",
+    "answer": "jackal"
+  },  {
+    "name": "riddle_17",
+    "description": " In Greek mythology, from which race of 1 eyed people did Polyphemus come?",
+    "answer": "cyclops"
+  },  {
+    "name": "riddle_18",
+    "description": "Who ferried the dead across the river Styx into Hades?",
+    "answer": "charon"
+  },  {
+    "name": "riddle_19",
+    "description": "In Roman mythology Mercury was the messenger of the Gods, who was the messenger of the Greek Gods?",
+    "answer": "hermes"
+  }
+]
